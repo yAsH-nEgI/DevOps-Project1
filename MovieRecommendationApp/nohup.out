@@ -1,0 +1,218 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/ubuntu/DevOps/Movie-Recommendation-System-Web-Application/MovieRecommendationApp/static' in the STATICFILES_DIRS setting does not exist.
+?: (staticfiles.W004) The directory '/var/www/static/' in the STATICFILES_DIRS setting does not exist.
+web.Movie: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WebConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+web.Myrating: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WebConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 4 issues (0 silenced).
+Error: That port is already in use.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified some issues:
+
+WARNINGS:
+?: (staticfiles.W004) The directory '/home/ubuntu/DevOps/Movie-Recommendation-System-Web-Application/MovieRecommendationApp/static' in the STATICFILES_DIRS setting does not exist.
+?: (staticfiles.W004) The directory '/var/www/static/' in the STATICFILES_DIRS setting does not exist.
+web.Movie: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WebConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+web.Myrating: (models.W042) Auto-created primary key used when not defining a primary key type, by default 'django.db.models.AutoField'.
+	HINT: Configure the DEFAULT_AUTO_FIELD setting or the WebConfig.default_auto_field attribute to point to a subclass of AutoField, e.g. 'django.db.models.BigAutoField'.
+
+System check identified 4 issues (0 silenced).
+September 15, 2023 - 19:05:54
+Django version 4.2.5, using settings 'main.settings'
+Starting development server at http://0.0.0.0:8002/
+Quit the server with CONTROL-C.
+
+[15/Sep/2023 19:05:56] "GET / HTTP/1.1" 200 111012
+[15/Sep/2023 19:05:56] "GET /static/web/css/bootstrap.min.css HTTP/1.1" 304 0
+[15/Sep/2023 19:05:56] "GET /static/web/css/base.css HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Toy%20Story%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Grumpier%20Old%20Men%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Jumanji%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Waiting%20to%20Exhale%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Father%20of%20the%20Bride%20Part%20II%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Heat%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Sabrina%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Sudden%20Death%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/GoldenEye%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/The%20American%20President%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Balto%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Dracula%3A%20Dead%20and%20Loving%20It%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /static/web/js/jquery.min.js HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /static/web/js/bootstrap.min.js HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Nixon%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Casino%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Sense%20and%20Sensibility%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Cutthroat%20Island%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Ace%20Ventura%3A%20When%20Nature%20Calls%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Four%20Rooms%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:57] "GET /media/Money%20Train%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Get%20Shorty%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Copycat%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Assassins%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /static/web/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 1994
+[15/Sep/2023 19:05:58] "GET /media/Powder%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Leaving%20Las%20Vegas%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Othello%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /static/web/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1991
+[15/Sep/2023 19:05:58] "GET /media/Now%20and%20Then%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /static/web/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1988
+[15/Sep/2023 19:05:58] "GET /media/Persuasion.jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/The%20City%20of%20Lost%20Children%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Yao%20a%20yao%2C%20yao%20dao%20wai%20po%20qiao%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Dangerous%20Minds%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Twelve%20Monkeys%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Wings%20of%20Courage%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Babe%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Carrington%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Across%20the%20Sea%20of%20Time%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Dead%20Man%20Walking%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/It%20Takes%20Two%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Clueless%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Cry%2C%20the%20Beloved%20Country%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Richard%20III%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Dead%20Presidents%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Restoration%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Mortal%20Kombat%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/To%20Die%20For%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/How%20to%20Make%20an%20American%20Quilt%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Se7en%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Pocahontas%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/When%20Night%20Is%20Falling%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/The%20Usual%20Suspects%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Mighty%20Aphrodite%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Lamerica%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Georgia%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Kids%20of%20the%20Round%20Table%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Home%20for%20the%20Holidays%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Il%20Postino%3A%20The%20Postman%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Le%20confessionnal%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/The%20Indian%20in%20the%20Cupboard%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Eye%20for%20an%20Eye%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Mr.%20Holland's%20Opus%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Don't%20Be%20a%20Menace%20to%20South%20Central%20While%20Drinking%20Your%20Juice%20in%20the%20Hood%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Bio-Dome%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Two%20If%20by%20Sea%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Lawnmower%20Man%202%3A%20Beyond%20Cyberspace%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Two%20Bits%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/French%20Twist%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Friday%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/From%20Dusk%20Till%20Dawn%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Kicking%20and%20Screaming%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Bed%20of%20Roses%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Big%20Bully%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Nico%20Icon%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/Screamers%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/The%20Juror%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/The%20Crossing%20Guard%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:58] "GET /media/The%20White%20Balloon%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Things%20to%20Do%20in%20Denver%20When%20You're%20Dead%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Once%20Upon%20a%20Time...%20When%20We%20Were%20Colored%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Antonia's%20Line%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Last%20Summer%20in%20the%20Hamptons%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Angels%20and%20Insects%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/White%20Squall%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Dunston%20Checks%20In%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Black%20Sheep%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Nick%20of%20Time%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Journey%20of%20August%20King%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Vampire%20in%20Brooklyn%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Mary%20Reilly%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Beautiful%20Girls%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Broken%20Arrow%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/A%20Midwinter's%20Tale%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Shopping%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/La%20Haine%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Heidi%20Fleiss%3A%20Hollywood%20Madam%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/City%20Hall%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Bottle%20Rocket%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Mr.%20Wrong%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Unforgettable%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Happy%20Gilmore%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Bridges%20of%20Madison%20County%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Nobody%20Loves%20Me%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Muppet%20Treasure%20Island%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Catwalk%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Braveheart%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Headless%20Body%20in%20Topless%20Bar%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Rumble%20in%20the%20Bronx%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Before%20and%20After%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Margaret's%20Museum%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Happiness%20Is%20in%20the%20Field%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Anne%20Frank%20Remembered%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Young%20Poisoner's%20Handbook%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/If%20Lucy%20Fell%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Steal%20Big%20Steal%20Little%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Race%20the%20Sun%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Boys%20of%20St.%20Vincent%20(1992).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Boomerang%20(1992).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Chungking%20Express%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Flirting%20with%20Disaster%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Star%20Maker%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Neverending%20Story%20III%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Jupiter's%20Wife%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Pie%20in%20the%20Sky%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Silences%20of%20the%20Palace%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Angela%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Frankie%20Starlight%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Jade%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Down%20Periscope%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Sonic%20Outlaws%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/From%20the%20Journals%20of%20Jean%20Seberg%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Neon%20Bible%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Man%20of%20the%20Year%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/Up%20Close%20%26%20Personal%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Birdcage%20(1996).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:05:59] "GET /media/The%20Brothers%20McMullen%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Bad%20Boys%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/The%20Basketball%20Diaries%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/The%20Amazing%20Panda%20Adventure%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/An%20Awfully%20Big%20Adventure%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Amateur%20(1994).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Apollo%2013%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/The%20Addiction%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Rob%20Roy%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Batman%20Forever%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Belle%20de%20Jour%20(1967).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Beyond%20Rangoon%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Canadian%20Bacon%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Casper%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Congo%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:00] "GET /media/Clockers%20(1995).jpg HTTP/1.1" 304 0
+[15/Sep/2023 19:06:07] "GET / HTTP/1.1" 200 111012
+[15/Sep/2023 19:06:07] "GET /static/web/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 1994
+[15/Sep/2023 19:06:07] "GET /static/web/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1991
+[15/Sep/2023 19:06:07] "GET /static/web/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1988
+[15/Sep/2023 19:06:10] "GET / HTTP/1.1" 200 111012
+[15/Sep/2023 19:06:10] "GET /static/web/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 1994
+[15/Sep/2023 19:06:10] "GET /static/web/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1991
+[15/Sep/2023 19:06:10] "GET /static/web/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1988
+[15/Sep/2023 19:06:25] "GET / HTTP/1.1" 200 111012
+[15/Sep/2023 19:06:25] "GET /static/web/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 1994
+[15/Sep/2023 19:06:25] "GET /static/web/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1991
+[15/Sep/2023 19:06:25] "GET /static/web/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1988
+[15/Sep/2023 19:06:27] "GET / HTTP/1.1" 200 111012
+[15/Sep/2023 19:06:27] "GET /static/web/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 404 1994
+[15/Sep/2023 19:06:27] "GET /static/web/fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 1991
+[15/Sep/2023 19:06:27] "GET /static/web/fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 1988
+[15/Sep/2023 19:21:00] "GET / HTTP/1.1" 200 111253
+[15/Sep/2023 19:21:01] "GET / HTTP/1.1" 200 111253
+Not Found: /favicon.ico
+[15/Sep/2023 19:21:02] "GET /favicon.ico HTTP/1.1" 404 3387
+Not Found: /robots.txt
+[15/Sep/2023 19:21:02] "GET /robots.txt HTTP/1.1" 404 3384
+[15/Sep/2023 19:21:03] "GET /static/web/js/jquery.min.js HTTP/1.1" 200 97163
+[15/Sep/2023 19:21:03] "GET /static/web/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Sep/2023 19:21:30] code 400, message Bad request version ('F\x07\x00tsXrcsXYs9\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbXcsXctst\x00\x00\x00\x00\x00\x00')
+[15/Sep/2023 19:21:30] "   TZ          0I    ¨À )t F tsXrcsXYs9                      bbXcsXctst      " 400 -
+[15/Sep/2023 21:11:05] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+[15/Sep/2023 21:11:05] "  à          " 400 -
